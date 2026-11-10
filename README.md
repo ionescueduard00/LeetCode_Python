@@ -7,6 +7,7 @@ LeetCode  problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ionescueduard00/LeetCode_Python/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/ionescueduard00/LeetCode_Python/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,8 +33,13 @@ LeetCode  problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ionescueduard00/LeetCode_Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ionescueduard00/LeetCode_Python/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ionescueduard00/LeetCode_Python/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ionescueduard00/LeetCode_Python/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ionescueduard00/LeetCode_Python/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
