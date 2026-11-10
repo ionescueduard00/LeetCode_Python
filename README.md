@@ -20,6 +20,7 @@ LeetCode  problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ionescueduard00/LeetCode_Python/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/ionescueduard00/LeetCode_Python/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
