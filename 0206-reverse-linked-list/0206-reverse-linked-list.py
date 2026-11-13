@@ -8,7 +8,6 @@ class Solution:
         if head is None:
             return
         stiva=[]
-        stiva=list()
         dummy=ListNode()
         tail=dummy
         while head:
